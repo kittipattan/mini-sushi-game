@@ -1,6 +1,8 @@
 # Mini Sushi Game
 Mini Sushi Game is a game that the player will be the chef of the sushi restaurant serving sushi to the customers.
 
+![Preview of the game](./mini_sushi_game_screenshot.png "Preview of the game")
+
 ## Instruction
 You have to serve the correct sushi to the correct table within 125 seconds.
 - Correct: +100 points
